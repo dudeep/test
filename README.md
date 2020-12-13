@@ -1,2 +1,2 @@
 # test
-for my personal test
+for my personal use
